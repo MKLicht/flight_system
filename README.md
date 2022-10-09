@@ -3,11 +3,11 @@
 
 ## Installation
 
-Since the scene of this game is built in Panda3D, you need to download `Panda3D` engine to run this program.
+Since the scene of this system is built in Panda3D, you need to download `Panda3D` engine to run this program.
 
 ## Example
 
-Here are some scenes from the flight game.
+Here are some scenes from the flight system.
 
 ### Single flight
 
